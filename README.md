@@ -53,6 +53,3 @@
   </a>
 
 </details>
-
-
-<img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
