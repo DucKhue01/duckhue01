@@ -1,6 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%23000000&lines=Hi+there%2C+I'm+Duc+Khue+%7Bduckhue01%7D++%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B)](https://git.io/typing-svg)
-<br>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%23000000&size=12&lines=%3E%3E%3E+a+software+engineer+and+react+enthusias+%3C%3C%3C)](https://git.io/typing-svg)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
