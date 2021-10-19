@@ -4,5 +4,5 @@
 
 ![](./image/javascript.png)
 ![](./image/typescript.png)
-![](./image/react.pngi)
+![](./image/react.png)
 ![](./image/go.png)
