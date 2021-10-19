@@ -1,7 +1,8 @@
-#### Hi there, I'm Duc Khue  👋👋👋
-a software engineer and react enthusiast
 
-![](./javascript.png)
-![](./typescript.png)
-![](./react.png)
-
+#### Hi there, I'm Duc Khue {duckhue01}  👋👋👋
+*a software engineer and **react** enthusiast*
+---
+![](./img/javascript.png)
+![](./img/typescript.png)
+![](./img/react.pngi)
+![](./img/go.png)
