@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%23000000&lines=Hi+there%2C+I'm+Duc+Khue+%7Bduckhue01%7D++%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%23000000&lines=Hi+there%2C+I'm+Duc+Khue+%7Bduckhue01%7D++%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B&height=30)  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%23000000&lines=%3E%3E%3E+a+software+engineer+and+reactJS+enthusias+%3C%3C%3C)  
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
