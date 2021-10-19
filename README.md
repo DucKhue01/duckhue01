@@ -1,7 +1,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%23000000&lines=Hi+there%2C+I'm+Duc+Khue+%7Bduckhue01%7D++%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%23000000&size=12&lines=%3E%3E%3E+a+software+engineer+and+react+enthusias+%3C%3C%3C)  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%23000000&size=12&lines=%3E%3E%3E+a+software+engineer+and+reactJS+enthusias+%3C%3C%3C)  
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
