@@ -3,9 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23000000&size=12&multiline=true&lines=+A+clever+person+solves+a+problem.++A+wise+person+AVOIDS+it.++;-+Albert+Einstein)](https://git.io/typing-svg)
 
 ```js
-const competition = (duckhue01, bug) => {
-   // with some way =))
-  return "bug disappear =))"
+const DucKhue = {
+   lifeStyle: "simple",
+   passion: ["software engineering", "english", "cooking", "LoL"],
+   passive: (bug) => "bug disappear =))",
+   standpoint:  [effective, TDD,]
 }
 ```
 
