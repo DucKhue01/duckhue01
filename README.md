@@ -8,7 +8,6 @@ const DucKhue = {
    passion: ["software engineering", "english", "cooking", "LoL"],
    passive: (bug) => "bug disappear =))",
    standpoint:  ["effective", "TDD", "basic"],
-   hate:["thuy loi university"],
    love:["dog"]
 }
 ```
