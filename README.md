@@ -5,10 +5,8 @@
 ```js
 const DucKhue = {
    lifeStyle: "simple",
-   passion: ["software engineering", "english", "cooking", "LoL"],
-   passive: (bug) => "bug disappear =))",
-   standpoint:  ["effective", "TDD", "basic"],
-   love:["dog"]
+   passion: ["software engineering", "english"],
+   standpoint:  ["effective", "TDD", "basic"]
 }
 ```
 
