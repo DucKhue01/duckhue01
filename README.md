@@ -1,6 +1,6 @@
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&font=ubuntu&color=%23000000&lines=Hi+there%2C+I'm+Duc+Khue+%7Bduckhue01%7D++%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B&height=30)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%23000000&lines=Hi+there%2C+I'm+Duc+Khue+%7Bduckhue01%7D++%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B&height=30)
 
 <p align="center" >A Backend Developer</p>
 
