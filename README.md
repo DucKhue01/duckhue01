@@ -11,4 +11,4 @@ A Backend Developer
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duckhue01)
-<img align='right' src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif" width="430">
+<img src="https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif" width="430">
