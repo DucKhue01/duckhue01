@@ -13,4 +13,5 @@
 <div>
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duckhue01&center=true)
   <img src="https://media.giphy.com/media/SmwsaXanCdOxy/giphy.gif">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duckhue01&center=true">
 </div>
