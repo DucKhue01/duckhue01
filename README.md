@@ -20,18 +20,4 @@
     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
   </a>
 </center>
-<style>
-body {
-    font-family: 'Ubuntu Mono';font-size: 22px;
-}
-</style>
-</head>
-<body>
-
-<h1>Ubuntu Mono</h1>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
-<p>123456790</p>
-<p>ABCDEFGHIJKLMNOPQRSTUVWXYZ</p>
-<p>abcdefghijklmnopqrstuvwxyz</p>
-
-</body>
+<h1 style="font-family:Ubuntu Mono">Ubuntu Mono</h1>
