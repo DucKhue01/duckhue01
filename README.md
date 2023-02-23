@@ -4,10 +4,10 @@
 <img src="./image/go.jpeg">
 <br />
 
-**Align center:**
 <p align="center" width="100%">
-  <img width="33%" src="[https://i.stack.imgur.com/RJj4x.png](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)">
-   <img width="33%" src="[https://i.stack.imgur.com/RJj4x.png](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)">
+    <img width="33%" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img width="33%" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+    <img width="33%" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
 </p>
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
