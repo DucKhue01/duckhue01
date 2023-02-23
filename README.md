@@ -6,9 +6,7 @@
 
 **Align center:**
 <p align="center" width="100%">
-    <div>
-        <img width="33%" src="https://i.stack.imgur.com/RJj4x.png">
-    </div>
+  <img width="33%" src="https://i.stack.imgur.com/RJj4x.png">
 </p>
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
