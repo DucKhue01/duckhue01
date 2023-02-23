@@ -6,7 +6,8 @@
 
 **Align center:**
 <p align="center" width="100%">
-  <img width="33%" src="https://i.stack.imgur.com/RJj4x.png">
+  <img width="33%" src="[https://i.stack.imgur.com/RJj4x.png](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)">
+   <img width="33%" src="[https://i.stack.imgur.com/RJj4x.png](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)">
 </p>
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
